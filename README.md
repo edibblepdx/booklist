@@ -17,7 +17,7 @@ A collection of learning resource books and exercises that I have fully or parti
 - __Learn OpenGL__; _Joey de Vries_
 - __HTML and CSS__; _Jon Duckett_
 
-## Journal Papers
+## Journal Papers Read
 - __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
 - __Precomputed Atmospheric Scattering__; _Eric Bruneton and Fabrice Neyret 2008_
 - __Real-Time Rendering of Planets with Atmospheres__; _Schafhitzel et al._
