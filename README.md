@@ -5,9 +5,10 @@ An incomplete list of learning resource books that I have fully or partially rea
 
 ## Fully Read
 - :star: __Programming in Lua, Fourth Edition__; _Roberto Ierusalimschy_
-  > Lua, my G.O.A.T.
+  > Lua, my G.O.A.T. The exercises in this book are really good.
 - :star: __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
-  > I love linear algebra. I had the opportunity to teach a class once for a single day, and it was fun.
+  > I had the opportunity to teach a linear algebra class once for a single day, and it was fun.
+  > The chapters are short so it's really easy to take one or two passes then solidify everything you learned with the great exercises that follow.
 - :star: __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
   > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
