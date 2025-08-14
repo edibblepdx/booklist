@@ -1,26 +1,34 @@
 # booklist
 
-A collection of learning resource books and exercises that I have fully or partially completed.
+An incomplete list of learning resource books that I have fully or partially read.
+> :star: means that I highly recommend this book
 
 ## Fully Read
-- __Programming in Lua, Fourth Edition__; _Roberto Ierusalimschy_
-- __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
+- :star: __Programming in Lua, Fourth Edition__; _Roberto Ierusalimschy_
+  > Lua, my blessed child
+- :star: __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
+  > I love linear algebra. I had the opportunity to teach a class once for a single day, and it was fun.
+- :star: __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
+  > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
-- __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
 - __The Book of Shaders (incomplete book)__; _Patricio Gonzalez Vivo, Jen Lowe_
 
 ## Partially Read
-- __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
+- :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
+  > Including rustlings and the brown book.
+- :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
+- :star: __Deep Learning__; _Ian Goodfellow and Yoshua Bengio and Aaron Courville_
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
-- __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
+- __Learn You a Haskell__; _Miran Lipovača_
 - __Learn OpenGL__; _Joey de Vries_
 - __HTML and CSS__; _Jon Duckett_
 
 ## Journal Papers Read
-- __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
+- :star: __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
+  > The classic atmospheric scattering paper.
 - __Precomputed Atmospheric Scattering__; _Eric Bruneton and Fabrice Neyret 2008_
 - __Real-Time Rendering of Planets with Atmospheres__; _Schafhitzel et al._
-- __Calculating the Singular Values and Pseudo-Inverse of a Matrix__; _G. Golub and W. Kahan 1965_
+- :star: __Calculating the Singular Values and Pseudo-Inverse of a Matrix__; _G. Golub and W. Kahan 1965_
 - __Singular Value Decomposition on GPU using CUDA__; _Sheetal Lahabar and P J Narayanan 2009_
