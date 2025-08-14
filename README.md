@@ -12,7 +12,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - :star: __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
   > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
-- __The Book of Shaders (incomplete book)__; _Patricio Gonzalez Vivo, Jen Lowe_
+- __The Book of Shaders (this book is incomplete)__; _Patricio Gonzalez Vivo, Jen Lowe_
 
 ## Partially Read
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
