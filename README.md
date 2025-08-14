@@ -35,3 +35,5 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Precomputed Atmospheric Scattering__; _Eric Bruneton and Fabrice Neyret 2008_
 - __Real-Time Rendering of Planets with Atmospheres__; _Schafhitzel et al._
 - __Singular Value Decomposition on GPU using CUDA__; _Sheetal Lahabar and P J Narayanan 2009_
+
+<!-- braiding sweetgrass -->
