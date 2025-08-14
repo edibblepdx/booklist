@@ -24,7 +24,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
-- __Learn You a Haskell for Great Good__; _Miran Lipovača_
+- __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
 - __Learn OpenGL__; _Joey de Vries_
 - __HTML and CSS__; _Jon Duckett_
 
