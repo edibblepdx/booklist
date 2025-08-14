@@ -5,7 +5,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 
 ## Fully Read
 - :star: __Programming in Lua, Fourth Edition__; _Roberto Ierusalimschy_
-  > Lua, my blessed child
+  > Lua, my G.O.A.T.
 - :star: __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
   > I love linear algebra. I had the opportunity to teach a class once for a single day, and it was fun.
 - :star: __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
