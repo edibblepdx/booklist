@@ -1,7 +1,7 @@
 # booklist
 
 An incomplete list of learning resource books that I have fully or partially read.
-> :star: means that I highly recommend this book
+> :star: means that I highly recommend this book.
 
 ## Fully Read
 - :star: __Programming in Lua, Fourth Edition__; _Roberto Ierusalimschy_
