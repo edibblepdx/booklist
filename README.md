@@ -17,6 +17,8 @@ An incomplete list of learning resource books that I have fully or partially rea
 ## Partially Read
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
   > Including rustlings and the brown book.
+- :star: __Buddhism: A Very Short Introduction__; _Damien Keown_
+  > Part of the Very Short Introductions series. Bought this while reading Houseki no Kuni.
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
 - :star: __Deep Learning__; _Ian Goodfellow and Yoshua Bengio and Aaron Courville_
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
