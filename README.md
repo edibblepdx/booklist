@@ -27,6 +27,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
 - __Learn OpenGL__; _Joey de Vries_
 - __HTML and CSS__; _Jon Duckett_
+  > MDN Web Docs tends to be a better reference.
 - __Elements (Green Lion Press Edition)__; _Euclid_
 
 ## Journal Papers Read
