@@ -27,6 +27,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
 - __Learn OpenGL__; _Joey de Vries_
 - __HTML and CSS__; _Jon Duckett_
+- __Elements__ (Green Lion Press); _Euclid_
 
 ## Journal Papers Read
 - :star: __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
