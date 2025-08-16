@@ -1,6 +1,6 @@
 # booklist
 
-An incomplete list of learning resource books that I have fully or partially read.
+An incomplete list of learning resource books that I have fully or partially read, and can recommend.
 > :star: means that I highly recommend this book.
 
 ## Fully Read
