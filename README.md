@@ -13,7 +13,7 @@ An incomplete list of learning resource books that I have fully or partially rea
   > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist interested in the English language.
 - :star: __Buddhism: A Very Short Introduction__; _Damien Keown_
   > Part of the "Very Short Introductions" series (148 pages). I bought this from a chic bookstore while reading Houseki no Kuni.
-  > In it, Damien Keown shares the creation and evolution of Buddhism, its variations, central teachings, and its dissemination throughout Asia and the West.
+  > In it, Damien Keown explores the creation and evolution of Buddhism, its variations, central teachings, and its dissemination throughout Asia and the West.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
 - __The Book of Shaders (this book is incomplete)__; _Patricio Gonzalez Vivo, Jen Lowe_
 
