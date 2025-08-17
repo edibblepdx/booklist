@@ -10,7 +10,7 @@ An incomplete list of learning resource books that I have fully or partially rea
   > I had the opportunity to teach a linear algebra class once for a single day, and it was fun.
   > The chapters are short so it's really easy to take one or two passes then solidify everything you learned with the great exercises that follow.
 - :star: __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
-  > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist.
+  > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist interested in the English language.
 - :star: __Buddhism: A Very Short Introduction__; _Damien Keown_
   > Part of the "Very Short Introductions" series (148 pages). I bought this from a chic bookstore while reading Houseki no Kuni.
   > In it, Damien Keown shares the creation and evolution of Buddhism, its variations, central teachings, and its dissemination throughout Asia and the West.
