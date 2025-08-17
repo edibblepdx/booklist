@@ -11,14 +11,15 @@ An incomplete list of learning resource books that I have fully or partially rea
   > The chapters are short so it's really easy to take one or two passes then solidify everything you learned with the great exercises that follow.
 - :star: __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
   > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist.
+- :star: __Buddhism: A Very Short Introduction__; _Damien Keown_
+  > Part of the "Very Short Introductions" series (148 pages). I bought this from a chic bookstore while reading Houseki no Kuni.
+  > In it, Damien Keown shares the creation and evolution of Buddhism, its variations, central teachings, and its dissemination throughout Asia and the West.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
 - __The Book of Shaders (this book is incomplete)__; _Patricio Gonzalez Vivo, Jen Lowe_
 
 ## Partially Read
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
   > Including rustlings and the brown book.
-- :star: __Buddhism: A Very Short Introduction__; _Damien Keown_
-  > Part of the "Very Short Introductions" series (148 pages). I bought this from a chic bookstore while reading Houseki no Kuni.
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
 - :star: __Deep Learning__; _Ian Goodfellow and Yoshua Bengio and Aaron Courville_
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
