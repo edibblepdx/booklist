@@ -35,7 +35,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 
 ## Journal Papers Read
 - :star: __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
-  > The classic atmospheric scattering paper.
+  > The classic paper on atmospheric scattering.
 - :star: __Calculating the Singular Values and Pseudo-Inverse of a Matrix__; _G. Golub and W. Kahan 1965_
 - __Precomputed Atmospheric Scattering__; _Eric Bruneton and Fabrice Neyret 2008_
 - __Real-Time Rendering of Planets with Atmospheres__; _Schafhitzel et al._
