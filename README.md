@@ -15,7 +15,8 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Part of the "Very Short Introductions" series (148 pages). I bought this from a chic bookstore while reading Houseki no Kuni.
   > In it, Damien Keown explores the creation and evolution of Buddhism, its variations, central teachings, and its dissemination throughout Asia and the West.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
-- __The Book of Shaders (this book is incomplete)__; _Patricio Gonzalez Vivo, Jen Lowe_
+- __The Book of Shaders__; _Patricio Gonzalez Vivo, Jen Lowe_
+  > This book is incomplete.
 
 ## Partially Read
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
@@ -25,6 +26,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
+  > Partially supplemented by the other analysis book on this list.
 - __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
 - __Learn OpenGL__; _Joey de Vries_
 - __HTML and CSS__; _Jon Duckett_
