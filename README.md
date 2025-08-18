@@ -18,6 +18,8 @@ An incomplete list of learning resource books that I have fully or partially rea
   > G. Lafferiere and Nguyen Mau Nam were two of my professors whom I deeply respect.
 - __The Book of Shaders__; _Patricio Gonzalez Vivo, Jen Lowe_
   > This book is incomplete.
+- __HTML and CSS__; _Jon Duckett_
+  > MDN Web Docs tends to be a better reference, but this book can provide helpful visuals, although a bit dated.
 
 ## Partially Read
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
@@ -30,8 +32,6 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Partially supplemented by the other analysis book on this list.
 - __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
 - __Learn OpenGL__; _Joey de Vries_
-- __HTML and CSS__; _Jon Duckett_
-  > MDN Web Docs tends to be a better reference, but this book can provide helpful visuals, although a bit dated.
 - __Elements (Green Lion Press Edition)__; _Euclid_
 
 ## Journal Papers Read
