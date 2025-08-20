@@ -6,6 +6,8 @@ An incomplete list of learning resource books that I have fully or partially rea
 ## Fully Read
 - :star: __Programming in Lua, Fourth Edition__; _Roberto Ierusalimschy_
   > Lua, my G.O.A.T. The exercises in this book are really good.
+- :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
+  > Including rustlings and the brown book.
 - :star: __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
   > I had the opportunity to teach a linear algebra class once for a single day, and it was fun.
   > The chapters are short so it's really easy to take one or two passes then solidify everything you learned with the great exercises that follow.
@@ -22,8 +24,6 @@ An incomplete list of learning resource books that I have fully or partially rea
   > MDN Web Docs tends to be a better reference, but this book can provide helpful visuals, although a bit dated.
 
 ## Partially Read
-- :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
-  > Including rustlings and the brown book.
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
 - :star: __Deep Learning__; _Ian Goodfellow and Yoshua Bengio and Aaron Courville_
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
