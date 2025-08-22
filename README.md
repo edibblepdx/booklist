@@ -26,6 +26,8 @@ An incomplete list of learning resource books that I have fully or partially rea
 ## Partially Read
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
 - :star: __Deep Learning__; _Ian Goodfellow and Yoshua Bengio and Aaron Courville_
+- __The Go Programming Language__; _Alan A. A. Donovan, Brian W. Kernighan_
+  > The exercises are interspersed throughout the chapters.
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
