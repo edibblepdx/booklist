@@ -45,3 +45,6 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Singular Value Decomposition on GPU using CUDA__; _Sheetal Lahabar and P J Narayanan 2009_
 
 <!-- braiding sweetgrass -->
+
+[pil-4th/tree/master]: https://github.com/edibblepdx/pil-4th
+[gobook/tree/master]: https://github.com/edibblepdx/gobook
