@@ -46,6 +46,10 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Introduces the neural network.
 - __The Perceptron: A Probabilistic Model For Information Storage and Organization in the Brain__; _F. Rosenblatt 1958_
   > Introduces the perceptron.
+- __Illumination for computer generated pictures__; _Bui Tuong Phong 1975_
+  > Introduces the Phong reflection model.
+- __Models of light reflection for computer synthesized pictures__; _James F. Blinn 1977_
+  > Introduces the Blinn–Phong reflection model.
 
 <!--
 - __Precomputed Atmospheric Scattering__; _Eric Bruneton and Fabrice Neyret 2008_
