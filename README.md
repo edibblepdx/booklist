@@ -36,13 +36,22 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Learn OpenGL__; _Joey de Vries_
 - __Elements (Green Lion Press Edition)__; _Euclid_
 
-## Journal Papers Read
-- :star: __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
+## Journal Papers Worth Reading
+- __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
   > The classic paper on atmospheric scattering.
-- :star: __Calculating the Singular Values and Pseudo-Inverse of a Matrix__; _G. Golub and W. Kahan 1965_
+- __An Improved Illumination Model for Shaded Display__; _Turner Whitted 1980_
+  > The classic paper on ray-tracing.
+- __Calculating the Singular Values and Pseudo-Inverse of a Matrix__; _G. Golub and W. Kahan 1965_
+- __A Logical Calculus of the Ideas Immanent in Nervous Activity__; _McCulloch and Pitts 1943_
+  > Introduces the neural network.
+- __The Perceptron: A Probabilistic Model For Information Storage and Organization in the Brain__; _F. Rosenblatt 1958_
+  > Introduces the perceptron.
+
+<!--
 - __Precomputed Atmospheric Scattering__; _Eric Bruneton and Fabrice Neyret 2008_
 - __Real-Time Rendering of Planets with Atmospheres__; _Schafhitzel et al._
 - __Singular Value Decomposition on GPU using CUDA__; _Sheetal Lahabar and P J Narayanan 2009_
+-->
 
 <!-- braiding sweetgrass -->
 
