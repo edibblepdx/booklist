@@ -38,6 +38,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Learn OpenGL__; _Joey de Vries_
 - __Elements (Green Lion Press Edition)__; _Euclid_
 - __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
+- __Introduction To Topology: Thrid Edition__; _Bert Mendelson_
 
 ## Journal Papers Worth Reading
 - __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
