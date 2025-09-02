@@ -38,6 +38,9 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Learn OpenGL__; _Joey de Vries_
 - __Elements (Green Lion Press Edition)__; _Euclid_
 - __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
+
+## Pland to Read
+- __Confucianism: A Very Short Introduction__; _Daniel K. Gardner_
 - __Introduction To Topology: Thrid Edition__; _Bert Mendelson_
 
 ## Journal Papers Worth Reading
