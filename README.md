@@ -1,6 +1,6 @@
 # booklist
 
-An incomplete list of learning resource books that I have fully or partially read, and can recommend.
+An incomplete list of learning resource books that I have fully or partially read.
 > :star: means that I highly recommend this book.
 
 ## Fully Read
@@ -22,6 +22,7 @@ An incomplete list of learning resource books that I have fully or partially rea
   > This book is incomplete.
 - __HTML and CSS__; _Jon Duckett_
   > MDN Web Docs tends to be a better reference, but this book can provide helpful visuals, although a bit dated.
+- __Engineering Software Products__; _Ian Sommerville_
 
 ## Partially Read
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
