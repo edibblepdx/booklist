@@ -23,6 +23,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __HTML and CSS__; _Jon Duckett_
   > MDN Web Docs tends to be a better reference, but this book can provide helpful visuals, although a bit dated.
 - __Engineering Software Products__; _Ian Sommerville_
+  > Introduction to different software architectures and Agile methodologies.
 
 ## Partially Read
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
