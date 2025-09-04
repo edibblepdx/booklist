@@ -43,6 +43,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 
 ## Pland to Read
 - __Confucianism: A Very Short Introduction__; _Daniel K. Gardner_
+  > Part of the "Very Short Introductions" series (124 pages).
 - __Introduction To Topology: Thrid Edition__; _Bert Mendelson_
 
 ## Journal Papers Worth Reading
