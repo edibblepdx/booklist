@@ -13,9 +13,10 @@ An incomplete list of learning resource books that I have fully or partially rea
   > The chapters are short so it's really easy to take one or two passes then solidify everything you learned with the great exercises that follow.
 - :star: __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
   > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist interested in the English language.
-- :star: __Buddhism: A Very Short Introduction__; _Damien Keown_
+- :star: __Buddhism: A Very Short Introduction, First Edition__; _Damien Keown_
   > Part of the "Very Short Introductions" series (148 pages). I bought this from a chic bookstore while reading Houseki no Kuni.
   > In it, Damien Keown explores the creation and evolution of Buddhism, its variations, central teachings, and its dissemination throughout Asia and the West.
+  > There exists a new and updated second edition.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
   > G. Lafferiere and Nguyen Mau Nam were two of my professors whom I deeply respect.
 - __The Book of Shaders__; _Patricio Gonzalez Vivo, Jen Lowe_
