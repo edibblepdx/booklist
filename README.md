@@ -32,6 +32,7 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Riichi Mahjong Strategy Guide.
 - :star: __The Go Programming Language__; _Alan A. A. Donovan, Brian W. Kernighan_
   > A little dated and does not include items like generics, but otherwise a quality book in its depth with good exercises.
+  > A good supplement for the missing material would be "Go by Example", by Mark McGranaghan and Eli Bendersky.
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
