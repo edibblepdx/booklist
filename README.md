@@ -43,7 +43,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Elements (Green Lion Press Edition)__; _Euclid_
 - __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
 - __Confucianism: A Very Short Introduction__; _Daniel K. Gardner_
-  > Part of the "Very Short Introductions" series (124 pages). I bought this while reading Kingdom where the comparison of
+  > Part of the "Very Short Introductions" series (124 pages). I bought this while reading Kingdom, where the comparison of
   > Legalism and Confucianism is an existing theme. In history, the Qin dynasty was legalist, but the Han dynasty, who succeeded,
   > was more accepting of Confucian philosophy.
 - __Programming in Haskell, Second Edition__; _Graham Hutton_
