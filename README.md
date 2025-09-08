@@ -19,7 +19,7 @@ An incomplete list of learning resource books that I have fully or partially rea
   > There exists a new and updated second edition.
 - :star: __Confucianism: A Very Short Introduction__; _Daniel K. Gardner_
   > Part of the "Very Short Introductions" series (124 pages). I bought this while reading Kingdom, where the comparison of
-  > Legalism and Confucianism is an existing theme. In it, Daniel K. Gardner explores classical Confucianism, Mencius and Xunzi schools of confuciansim,
+  > Legalism and Confucianism is an existing theme. In it, Daniel K. Gardner explores classical Confucianism, Mencius and Xunzi schools of Confuciansim,
   > and Neo Confucianism, ending with Confucianism in practice leading into the 20th and 21st centuries.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
   > G. Lafferiere and Nguyen Mau Nam were two of my professors whom I deeply respect.
