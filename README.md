@@ -17,6 +17,10 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Part of the "Very Short Introductions" series (148 pages). I bought this from a chic bookstore while reading Houseki no Kuni.
   > In it, Damien Keown explores the creation and evolution of Buddhism, its variations, central teachings, and its dissemination throughout Asia and the West.
   > There exists a new and updated second edition.
+- :star: __Confucianism: A Very Short Introduction__; _Daniel K. Gardner_
+  > Part of the "Very Short Introductions" series (124 pages). I bought this while reading Kingdom, where the comparison of
+  > Legalism and Confucianism is an existing theme. In it, Daniel K. Gardner explores classical Confucianism, Mencius and Xunzi schools of confuciansim,
+  > and Neo Confucianism, ending with Confucianism in practice leading into the 20th and 21st centuries.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
   > G. Lafferiere and Nguyen Mau Nam were two of my professors whom I deeply respect.
 - __The Book of Shaders__; _Patricio Gonzalez Vivo, Jen Lowe_
@@ -42,10 +46,6 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Learn OpenGL__; _Joey de Vries_
 - __Elements (Green Lion Press Edition)__; _Euclid_
 - __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
-- __Confucianism: A Very Short Introduction__; _Daniel K. Gardner_
-  > Part of the "Very Short Introductions" series (124 pages). I bought this while reading Kingdom, where the comparison of
-  > Legalism and Confucianism is an existing theme. In history, the Qin dynasty was legalist, but the Han dynasty, who succeeded,
-  > was more accepting of Confucian philosophy.
 - __Programming in Haskell, Second Edition__; _Graham Hutton_
 
 ## Pland to Read
