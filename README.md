@@ -38,6 +38,8 @@ An incomplete list of learning resource books that I have fully or partially rea
 - :star: __The Go Programming Language__; _Alan A. A. Donovan, Brian W. Kernighan_
   > A little dated and does not include items like generics, but otherwise a quality book in its depth with good exercises.
   > A good supplement for the missing material would be "Go by Example", by Mark McGranaghan and Eli Bendersky.
+- :star: __Programming in Haskell, Second Edition__; _Graham Hutton_
+- :star: __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
@@ -45,8 +47,6 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
 - __Learn OpenGL__; _Joey de Vries_
 - __Elements (Green Lion Press Edition)__; _Euclid_
-- __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
-- __Programming in Haskell, Second Edition__; _Graham Hutton_
 
 ## Pland to Read
 - __Introduction To Topology: Thrid Edition__; _Bert Mendelson_
