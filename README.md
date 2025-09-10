@@ -65,6 +65,8 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Introduces the Phong reflection model.
 - __Models of light reflection for computer synthesized pictures__; _James F. Blinn 1977_
   > Introduces the Blinn–Phong reflection model.
+- __A Pixel Is Not A Little Square__; _Alvy Ray Smith_
+  > Sampling discourse often leads here.
 
 <!--
 - __Precomputed Atmospheric Scattering__; _Eric Bruneton and Fabrice Neyret 2008_
