@@ -57,6 +57,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __An Improved Illumination Model for Shaded Display__; _Turner Whitted 1980_
   > The classic paper on ray-tracing.
 - __Calculating the Singular Values and Pseudo-Inverse of a Matrix__; _G. Golub and W. Kahan 1965_
+  > Σ=𝑈*𝐴⁢𝑉
 - __A Logical Calculus of the Ideas Immanent in Nervous Activity__; _McCulloch and Pitts 1943_
   > Introduces the neural network.
 - __The Perceptron: A Probabilistic Model For Information Storage and Organization in the Brain__; _F. Rosenblatt 1958_
