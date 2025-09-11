@@ -5,7 +5,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 
 ## Fully Read
 - :star: __Programming in Lua, Fourth Edition__; _Roberto Ierusalimschy_
-  > Lua, my G.O.A.T. The exercises in this book are really good.
+  > Lua, my G.O.A.T. The [exercises][pil-4th] in this book are really good.
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
   > Including rustlings and the brown book.
 - :star: __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
@@ -36,9 +36,11 @@ An incomplete list of learning resource books that I have fully or partially rea
 - :star: __Riichi Book I__; _Daina Chiba_
   > Riichi Mahjong Strategy Guide.
 - :star: __The Go Programming Language__; _Alan A. A. Donovan, Brian W. Kernighan_
-  > A little dated and does not include items like generics, but otherwise a quality book in its depth with good exercises.
+  > A little dated and does not include items like generics, but otherwise a quality book in its depth with good [exercises][gobook].
   > A good supplement for the missing material would be "Go by Example", by Mark McGranaghan and Eli Bendersky.
 - :star: __Programming in Haskell, Second Edition__; _Graham Hutton_
+  > This book is split int otwo parts: first covering basic concepts in pure programming then more advanced topics in impure programming.
+  > Each chapter is followed by further readings and [exercises][pih-2nd].
 - :star: __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
@@ -77,5 +79,6 @@ An incomplete list of learning resource books that I have fully or partially rea
 
 <!-- braiding sweetgrass -->
 
-[pil-4th/tree/master]: https://github.com/edibblepdx/pil-4th
-[gobook/tree/master]: https://github.com/edibblepdx/gobook
+[pil-4th]: https://github.com/edibblepdx/pil-4th
+[gobook]: https://github.com/edibblepdx/gobook
+[pih-2nd]: https://github.com/edibblepdx/pih-2nd
