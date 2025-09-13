@@ -41,6 +41,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - :star: __Programming in Haskell, Second Edition__; _Graham Hutton_
   > This book is split int otwo parts: first covering basic concepts in pure programming then more advanced topics in impure programming.
   > Each chapter is followed by further readings and [exercises][pih-2nd].
+  > It also includes a bibliography with additional resources.
 - :star: __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
