@@ -51,10 +51,10 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
 - __Learn OpenGL__; _Joey de Vries_
 - __Elements (Green Lion Press Edition)__; _Euclid_
-- __Introduction To Topology: Thrid Edition__; _Bert Mendelson_
+- __Introduction To Topology: Thrid Edition__; _Bert Mendelson 1975_
   > Published by Dover.
-- __Introduction To Graph Theory__; _Richard J. Trudeau_
-  > Published by Dover.
+- __Introduction To Graph Theory__; _Richard J. Trudeau 1976_
+  > Published by Dover. This book uses graph theory as an introduction to pure mathematics.
 
 ## Journal Papers Worth Reading
 - __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
