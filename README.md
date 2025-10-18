@@ -53,7 +53,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Elements (Green Lion Press Edition)__; _Euclid_
 - __Introduction To Topology: Thrid Edition__; _Bert Mendelson 1975_
   > Published by Dover.
-- __Introduction To Graph Theory__; _Richard J. Trudeau 1976_
+- :star: __Introduction To Graph Theory__; _Richard J. Trudeau 1976_
   > Published by Dover. This book uses graph theory as an introduction to pure mathematics.
 
 ## Journal Papers Worth Reading
