@@ -37,12 +37,13 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Riichi Mahjong Strategy Guide.
 - :star: __The Go Programming Language__; _Alan A. A. Donovan, Brian W. Kernighan_
   > A little dated and does not include items like generics, but otherwise a quality book in its depth with good [exercises][gobook].
-  > A good supplement for the missing material would be "Go by Example", by Mark McGranaghan and Eli Bendersky.
+  > A good supplement for the missing material would be "Go by Example", by Mark McGranaghan and Eli Bendersky. Code examples and an
+  > errata are available on the book's [website](https://www.gopl.io/).
 - :star: __Programming in Haskell, Second Edition__; _Graham Hutton_
   > This book is split int otwo parts: first covering basic concepts in pure programming then more advanced topics in impure programming.
   > Each chapter is followed by further readings and [exercises][pih-2nd].
   > It also includes a bibliography with additional resources.
-  > Be mindful that there are more typos in this book than in others. [Errata](https://people.cs.nott.ac.uk/pszgmh/pih-errata.html).
+  > Code examples, lecture slides, and an errata are available on the book's [website](https://people.cs.nott.ac.uk/pszgmh/pih.html).
 - :star: __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
