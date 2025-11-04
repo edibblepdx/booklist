@@ -49,13 +49,13 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
   > Partially supplemented by the other analysis book on this list.
-- __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
 - __Learn OpenGL__; _Joey de Vries_
 - __Elements (Green Lion Press Edition)__; _Euclid_
 - __Introduction To Topology: Thrid Edition__; _Bert Mendelson 1975_
   > Published by Dover.
 - :star: __Introduction To Graph Theory__; _Richard J. Trudeau 1976_
   > Published by Dover. This book uses graph theory as an introduction to pure mathematics.
+- __Making Embedded Systems__; _Elecia White_
 
 ## Journal Papers Worth Reading
 - __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
@@ -82,6 +82,10 @@ An incomplete list of learning resource books that I have fully or partially rea
 -->
 
 <!-- braiding sweetgrass -->
+
+<!--
+- __Learn You a Haskell for Great Good!__; _Miran Lipovača, with contributions from the Haskell Community_
+-->
 
 [pil-4th]: https://github.com/edibblepdx/pil-4th
 [gobook]: https://github.com/edibblepdx/gobook
