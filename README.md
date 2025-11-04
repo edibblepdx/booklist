@@ -9,10 +9,10 @@ An incomplete list of learning resource books that I have fully or partially rea
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
   > Including rustlings and the brown book.
 - :star: __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
-  > I had the opportunity to teach a linear algebra class once for a single day, and it was fun.
+  > _Used for a class_. I had the opportunity to teach a linear algebra class once for a single day, and it was fun.
   > The chapters are short so it's really easy to take one or two passes then solidify everything you learned with the great exercises that follow.
 - :star: __Longman Student Grammar of Spoken and Written English__; _Douglas Biber, Susan Conrad, Geoffrey Leech_
-  > I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist interested in the English language.
+  > _Used for a class_. I have an insane number of sticky notes in this book. It's comical even. Great book for a linguist interested in the English language.
 - :star: __Buddhism: A Very Short Introduction, First Edition__; _Damien Keown_
   > Part of the "Very Short Introductions" series (148 pages). I bought this from a chic bookstore while reading Houseki no Kuni.
   > In it, Damien Keown explores the creation and evolution of Buddhism, its variations, central teachings, and its dissemination throughout Asia and the West.
@@ -22,13 +22,13 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Legalism and Confucianism is an existing theme. In it, Daniel K. Gardner explores classical Confucianism, Mencius and Xunzi schools of Confuciansim,
   > and Neo Confucianism, ending with Confucianism in practice leading into the 20th and 21st centuries.
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
-  > G. Lafferiere and Nguyen Mau Nam were two of my professors whom I deeply respect.
+  > _Used for a class_. G. Lafferiere and Nguyen Mau Nam were two of my professors whom I deeply respect.
 - __The Book of Shaders__; _Patricio Gonzalez Vivo, Jen Lowe_
   > This book is incomplete.
 - __HTML and CSS__; _Jon Duckett_
   > MDN Web Docs tends to be a better reference, but this book can provide helpful visuals, although a bit dated.
 - __Engineering Software Products__; _Ian Sommerville_
-  > Introduction to different software architectures and Agile methodologies.
+  > _Used for a class_. Introduction to different software architectures and Agile methodologies.
 
 ## Partially Read
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
@@ -48,7 +48,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
-  > Partially supplemented by the other analysis book on this list.
+  > _Used for a class_. Partially supplemented by the other analysis book on this list.
 - __Learn OpenGL__; _Joey de Vries_
 - __Elements (Green Lion Press Edition)__; _Euclid_
 - __Introduction To Topology, Third Edition__; _Bert Mendelson 1975_
@@ -56,6 +56,8 @@ An incomplete list of learning resource books that I have fully or partially rea
 - :star: __Introduction To Graph Theory__; _Richard J. Trudeau 1976_
   > Published by Dover. This book uses graph theory as an introduction to pure mathematics.
 - __Making Embedded Systems, Second Edition__; _Elecia White_
+- __Differential Equations, 4th Edition__; _Paul Blanchard, Robert L. Devaney, and Glen R. Hall_
+- > _Used for a class_.
 
 ## Journal Papers Worth Reading
 - __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
