@@ -48,7 +48,8 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Videos, lecture slides, code examples, and an errata are available on the book's [website](https://people.cs.nott.ac.uk/pszgmh/pih.html).
 - :star: __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
   > __Freely available online__.
-- __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
+- __The C Programming Language, 2nd Edition__; _Brian Kernighan, Dennis Ritchie_
+  > __Freely available online__.
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
   > __Freely available online__.
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
