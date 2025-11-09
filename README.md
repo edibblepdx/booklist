@@ -7,7 +7,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - :star: __Programming in Lua, Fourth Edition__; _Roberto Ierusalimschy_
   > Lua, my G.O.A.T. The [exercises][pil-4th] in this book are really good.
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
-  > Including rustlings and the brown book.
+  > __Freely available online__. Including rustlings and the brown book.
 - :star: __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
   > __Used for a class__. I had the opportunity to teach a linear algebra class once for a single day, and it was fun.
   > The chapters are short so it's really easy to take one or two passes then solidify everything you learned with the great exercises that follow.
@@ -24,7 +24,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Introduction to Mathematical Analysis I__; _B. Lafferiere, G. Lafferiere, Nguyen Mau Nam_
   > __Used for a class__. G. Lafferiere and Nguyen Mau Nam were two of my professors whom I deeply respect.
 - __The Book of Shaders__; _Patricio Gonzalez Vivo, Jen Lowe_
-  > This book is incomplete.
+  > __Freely available online__. This book is incomplete.
 - __HTML and CSS__; _Jon Duckett_
   > MDN Web Docs tends to be a better reference, but this book can provide helpful visuals, although a bit dated.
 - __Engineering Software Products__; _Ian Sommerville_
@@ -32,10 +32,11 @@ An incomplete list of learning resource books that I have fully or partially rea
 
 ## Partially Read
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
+  > __Freely available online__.
 - :star: __Deep Learning__; _Ian Goodfellow and Yoshua Bengio and Aaron Courville_
-  > Freely available online.
+  > __Freely available online__.
 - :star: __Riichi Book I__; _Daina Chiba_
-  > Riichi Mahjong Strategy Guide.
+  > __Freely available online__. Riichi Mahjong Strategy Guide.
 - :star: __The Go Programming Language__; _Alan A. A. Donovan, Brian W. Kernighan_
   > A little dated and does not include items like generics, but otherwise a quality book in its depth with good [exercises][gobook].
   > A good supplement for the missing material would be "Go by Example", by Mark McGranaghan and Eli Bendersky. Code examples and an
@@ -46,11 +47,14 @@ An incomplete list of learning resource books that I have fully or partially rea
   > It also includes a bibliography with additional resources.
   > Videos, lecture slides, code examples, and an errata are available on the book's [website](https://people.cs.nott.ac.uk/pszgmh/pih.html).
 - :star: __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
+  > __Freely available online__.
 - __The C Programming Language__; _Brian Kernighan, Dennis Ritchie_
 - __The Modern JavaScript Tutorial__; _Ilya Kantor, with contributions from the JavaScript Community_
+  > __Freely available online__.
 - __Analysis with an Introduction to Proof (Pearson+), Fifth Edition__; _Steven R. Lay_
   > __Used for a class__. Partially supplemented by the other analysis book on this list.
 - __Learn OpenGL__; _Joey de Vries_
+  > __Freely available online__.
 - __Elements (Green Lion Press Edition)__; _Euclid_
 - __Introduction To Topology, Third Edition__; _Bert Mendelson 1975_
   > Published by Dover.
@@ -60,7 +64,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Differential Equations, 4th Edition__; _Paul Blanchard, Robert L. Devaney, and Glen R. Hall_
   > __Used for a class__.
 - __Pro Git, 2nd Edition__; _Scott Chacon and Ben Straub_
-  > Freely available online.
+  > __Freely available online__.
 
 ## Journal Papers Worth Reading
 - __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
