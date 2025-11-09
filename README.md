@@ -33,6 +33,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 ## Partially Read
 - :star: __Physically Based Rendering: From Theory to Implementation, Fourth Edition__; _Matt Pharr, Wenzel Jakob, Greg Humphreys_
 - :star: __Deep Learning__; _Ian Goodfellow and Yoshua Bengio and Aaron Courville_
+  > Freely available online.
 - :star: __Riichi Book I__; _Daina Chiba_
   > Riichi Mahjong Strategy Guide.
 - :star: __The Go Programming Language__; _Alan A. A. Donovan, Brian W. Kernighan_
