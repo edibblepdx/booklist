@@ -58,7 +58,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Making Embedded Systems, Second Edition__; _Elecia White_
 - __Differential Equations, 4th Edition__; _Paul Blanchard, Robert L. Devaney, and Glen R. Hall_
   > __Used for a class__.
-- __Pro Git__; _Scott Chacon and Ben Straub_
+- __Pro Git, 2nd Edition__; _Scott Chacon and Ben Straub_
   > Freely available online.
 
 ## Journal Papers Worth Reading
