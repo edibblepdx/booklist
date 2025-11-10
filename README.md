@@ -65,7 +65,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Differential Equations, 4th Edition__; _Paul Blanchard, Robert L. Devaney, and Glen R. Hall_
   > __Used for a class__.
 - __Pro Git, 2nd Edition__; _Scott Chacon and Ben Straub_
-  > __Freely available online__.
+  > __Freely available online__. You should read at least the first three chapters of this book, and selectively read the rest before you start your first job.
 
 ## Journal Papers Worth Reading
 - __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
