@@ -82,8 +82,8 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Introduces the Phong reflection model.
 - __Models of light reflection for computer synthesized pictures__; _James F. Blinn 1977_
   > Introduces the Blinn–Phong reflection model.
-- __A Pixel Is Not A Little Square__; _Alvy Ray Smith_
-  > Sampling discourse often leads here.
+- __A Pixel Is Not A Little Square__; _Alvy Ray Smith 1995_
+  > Famous technical memo on sampling.
 - __Data types à la carte__; _W. Swierstra 2008_
   > Injecting an arbitrary number of algebras into a free monad without recompiling existing code.
 
