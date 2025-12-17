@@ -84,6 +84,8 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Introduces the Blinn–Phong reflection model.
 - __A Pixel Is Not A Little Square__; _Alvy Ray Smith_
   > Sampling discourse often leads here.
+- __Data types à la carte__; _W. Swierstra 2008_
+  > Injecting an arbitrary number of algebras into a free monad without recompiling existing code.
 
 <!--
 - __Precomputed Atmospheric Scattering__; _Eric Bruneton and Fabrice Neyret 2008_
