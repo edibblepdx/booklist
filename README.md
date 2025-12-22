@@ -66,6 +66,7 @@ An incomplete list of learning resource books that I have fully or partially rea
   > __Used for a class__.
 - __Pro Git, 2nd Edition__; _Scott Chacon and Ben Straub_
   > __Freely available online__. You should read at least the first three chapters of this book, and selectively read the rest before you start your first job.
+- __Category Theory for Programmers__; _Bartosz Milewski_
 
 ## Journal Papers Worth Reading
 - __Display of the earth taking into account atmospheric scattering__; _Nishita et al. 1993_
