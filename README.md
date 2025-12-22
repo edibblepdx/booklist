@@ -8,6 +8,11 @@ An incomplete list of learning resource books that I have fully or partially rea
   > Lua, my G.O.A.T. The [exercises][pil-4th] in this book are really good.
 - :star: __The Rust Programming Language__; _Steve Klabnik, Carol Nichols, Chris Krycho, with contributions from the Rust Community_
   > __Freely available online__. Including rustlings and the brown book.
+- :star: __Programming in Haskell, Second Edition__; _Graham Hutton_
+  > This book is split int otwo parts: first covering basic concepts in pure programming then more advanced topics in impure programming.
+  > Each chapter is followed by further readings and [exercises][pih-2nd].
+  > It also includes a bibliography with additional resources.
+  > Videos, lecture slides, code examples, and an errata are available on the book's [website](https://people.cs.nott.ac.uk/pszgmh/pih.html).
 - :star: __Introduction to Linear Algebra, Sixth Edition__; _Gilbert Strang_
   > __Used for a class__. I had the opportunity to teach a linear algebra class once for a single day, and it was fun.
   > The chapters are short so it's really easy to take one or two passes then solidify everything you learned with the great exercises that follow.
@@ -41,11 +46,6 @@ An incomplete list of learning resource books that I have fully or partially rea
   > A little dated and does not include items like generics, but otherwise a quality book in its depth with good [exercises][gobook].
   > A good supplement for the missing material would be "Go by Example", by Mark McGranaghan and Eli Bendersky. Code examples and an
   > errata are available on the book's [website](https://www.gopl.io/).
-- :star: __Programming in Haskell, Second Edition__; _Graham Hutton_
-  > This book is split int otwo parts: first covering basic concepts in pure programming then more advanced topics in impure programming.
-  > Each chapter is followed by further readings and [exercises][pih-2nd].
-  > It also includes a bibliography with additional resources.
-  > Videos, lecture slides, code examples, and an errata are available on the book's [website](https://people.cs.nott.ac.uk/pszgmh/pih.html).
 - :star: __Ray Tracing in One Weekend Series__; _Peter Shirley, Trevor David Black, Steve Hollasch_
   > __Freely available online__.
 - __The C Programming Language, 2nd Edition__; _Brian Kernighan, Dennis Ritchie_
