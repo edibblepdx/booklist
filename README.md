@@ -65,7 +65,7 @@ An incomplete list of learning resource books that I have fully or partially rea
 - __Differential Equations, 4th Edition__; _Paul Blanchard, Robert L. Devaney, and Glen R. Hall_
   > __Used for a class__.
 - __Pro Git, 2nd Edition__; _Scott Chacon and Ben Straub_
-  > __Freely available online__. You should read at least the first three chapters of this book, and selectively read the rest before you start your first job.
+  > __Freely available online__. Worth reading chapters 1-3; optionally, 5, 7, and 8.
 - __Category Theory for Programmers__; _Bartosz Milewski_
 
 ## Journal Papers Worth Reading
